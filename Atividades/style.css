@@ -1,0 +1,28 @@
+.nome {
+    color: aliceblue;
+}
+
+h1:hover {
+    color: cyan;
+    font-size: 50pt;
+}
+
+.body {
+    background-image: url(imagens/paisagem.png);
+    background-size: cover;
+    height: 100vh;
+    margin: 0;
+}
+
+.intro {
+    color: darkturquoise;
+    font-size: 25pt;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bio {
+    color: wheat;
+    font-size: 24pt;
+}
