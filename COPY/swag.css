@@ -1,0 +1,84 @@
+.box {
+    border-color: #000188;
+    border-style: solid;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: bisque;
+}
+
+.titulo {
+    color: darkgreen;
+    text-align: center;
+}
+
+.java {
+    margin-right: 5px;
+}
+
+.c {
+    margin-left: 5px;
+}
+
+body {
+    background-color: lightgray;
+}
+
+.box2 {
+    display: flex;
+    justify-content: center;
+    gap: 35px;
+    background-color: lightskyblue;
+    gap: 125px;
+}
+
+.botao {
+    color: darkred;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.botao:hover {
+    color: crimson
+}
+
+.center{
+    text-align: center;
+}
+
+.centerRoxo{
+    text-align: center;
+    color: rebeccapurple;
+    font-family: sans-serif;
+    font-size: 20pt;
+}
+
+.livros{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+.livrosT{
+    text-align: center;
+}
+.FEI{
+    text-align: center;
+}
+.conteudo{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+.ctt{
+    text-align: center;
+}
+.tabela{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: red;
+}
+.borda{
+    border-style: dotted;
+    border-color: red;
+}
