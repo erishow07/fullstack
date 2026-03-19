@@ -1,0 +1,15 @@
+.bodin{
+    color: navajowhite;
+}
+.table{
+    border:2px solid rebeccapurple
+}
+.th{
+    border:2px solid rebeccapurple
+}
+td{
+    border:2px solid rebeccapurple
+}
+.tabela{
+    display: flex;
+}

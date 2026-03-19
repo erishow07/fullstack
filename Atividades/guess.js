@@ -1,0 +1,3 @@
+function guess(){
+    Math.random()
+}
