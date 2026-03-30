@@ -1,0 +1,117 @@
+.logo {
+    color: #CE2A34;
+}
+
+.botoes {
+    color: dimgray;
+    display: flex;
+    flex-direction: row;
+    padding: 30px;
+    gap: 30px;
+}
+.btI:hover{
+    color: red;
+}
+
+.btA:hover{
+    color: red;
+}
+
+.btS:hover{
+    color: red;
+}
+
+.btC:hover{
+    color: red;
+}
+
+.cabecalho{
+    border-style: hidden;
+    background-color: #1A1A2E;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;    
+}
+
+.banner{
+    background-color: #16213E;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.bannerT{
+    color: azure;
+    display: flex;
+    justify-content: center;
+}
+
+.bannerS{
+    color: dimgray;
+    display: flex;
+    justify-content: center;
+}
+.bt1{
+    border-style: solid;
+    border-radius: 5px;
+    border-color: #CE2A34;
+    background-color: #CE2A34;
+    color: azure;
+    display: flex;
+    width: fit-content;
+    margin-left: 46%;
+}
+
+.mainT{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.nots{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.not{
+    display: block;
+    width: 100%;   
+}
+
+.img{
+    display: flex;
+    width: fit-content;
+}
+
+.box{
+    border-style: hidden;
+    background-color: azure;
+    width: fit-content;
+}
+
+.sobre{
+    display: flex;
+    flex-direction: row;
+}
+
+.titulo{
+    font-size: large;
+    color: black;
+}
+
+.subt{
+    color: dimgray;
+}
+
+footer{
+    display: flex;
+    flex-direction: row;
+    background-color: #1A1A2E;
+    color: azure;
+    justify-content: center;
+}
+
+.red{
+    color: #CE2A34;
+}
